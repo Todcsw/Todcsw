@@ -1,8 +1,9 @@
 ### 👋Hi there ,I'm Todcsw.
 - ⚡ My Blog : [todcsw.site](http://todcsw.site)&nbsp;&nbsp;&nbsp;📈 Visitor count : <img src="https://profile-counter.glitch.me/Todcsw/count.svg" width="140"/>
 
-- <div>
-  Some other facts about me
+- 🌱 Some other facts about me
+<div>
+  
   <br>
   
   <p align="center">
