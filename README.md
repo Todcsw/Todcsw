@@ -2,7 +2,7 @@
 - ⚡ My Blog : [todcsw.site](http://todcsw.site)&nbsp;&nbsp;&nbsp;📈 Visitor count : <img src="https://profile-counter.glitch.me/Todcsw/count.svg" width="140"/>
 
 
-   Some other facts about me
+  Some other facts about me
   <br>
   
   <p align="center">
