@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  Some other facts about me
   <br>
   
   <p align="center">
